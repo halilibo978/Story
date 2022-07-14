@@ -1,4 +1,11 @@
 chapter2
 
 
+<<<<<<< HEAD
 upgrade 1 new new3
+=======
+upgrade 1
+
+
+upgrade 2
+>>>>>>> mk1
